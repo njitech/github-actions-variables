@@ -12,5 +12,4 @@ jobs:
 
     steps:
     - name: Echo ACCESS_ID
-
       run: echo $ACCESS_ID
